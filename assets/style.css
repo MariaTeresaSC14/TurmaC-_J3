@@ -33,7 +33,7 @@ body {
 
 .cartao__conteudo p {
     padding: 4rem;
-    margin-top: 4rem;
+    margin-top: 1rem;
     font-size: 1.4vw;
 }
 
@@ -76,6 +76,9 @@ body {
     transform: rotateY(180deg);
     background-color: rgb(75, 28, 113, 0.6);
     border: 8px solid var(--text-color)
+}
+.cartao__conteudo__pergunta img{
+    width: 7rem;
 }
 
 footer {
